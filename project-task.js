@@ -69,6 +69,7 @@ const invalidBookingJSON = `
 }
 `;
 
+// Code corrected in hotelBooking_fixed.json - Kevin
 
 // ============================================
 // ✅ Requirements
@@ -99,3 +100,5 @@ const invalidBookingJSON = `
 4️⃣ What strategies can help you avoid these kinds of errors in the future?
    (e.g., syntax highlighting, linters, writing JSON by example)
 */
+
+// Answers added to README.md file - Kevin
